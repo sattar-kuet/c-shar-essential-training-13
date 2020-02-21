@@ -1,0 +1,6 @@
+F:\C#\loop\loop\bin\Debug\loop.exe.config
+F:\C#\loop\loop\bin\Debug\loop.exe
+F:\C#\loop\loop\bin\Debug\loop.pdb
+F:\C#\loop\loop\obj\Debug\loop.csprojAssemblyReference.cache
+F:\C#\loop\loop\obj\Debug\loop.exe
+F:\C#\loop\loop\obj\Debug\loop.pdb
